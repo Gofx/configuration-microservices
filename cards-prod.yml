@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Bienvenido al Microservicio Tarjetas de Crédito en el entorno de Producción"
+  message: "Bienvenido al Microservicio Tarjetas de Crédito en el entorno de Explotación"
   contactDetails:
     name: "Lannister - Product Owner"
     email: "{cipher}47be9381920d6eb68084ee1560bdeee0dc7fcae009ea4e147a265d9b85140b296c9c3279b079d1b2c02d241a90fa6807"
