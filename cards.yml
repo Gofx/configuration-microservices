@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+cards:
+  message: "Bienvenido al Microservicio Tarjetas de Crédito para el entorno Local"
+  contactDetails:
+    name: "John Doe - Desarrollador"
+    email: "john.doe@banco.com"
+  onCallSupport:
+    - (34) 123 456 789
+    - (34) 789 456 123

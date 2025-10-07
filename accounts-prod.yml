@@ -1,0 +1,11 @@
+build:
+  version: "1.0"
+
+accounts:
+  message: "Bienvenido al Microservicio de Cuentas en el entorno de Producción"
+  contactDetails:
+    name: "Lannister - Product Owner"
+    email: "lannister@banco.com"
+  onCallSupport:
+    - (666) 324 123 456
+    - (666) 982 789 123

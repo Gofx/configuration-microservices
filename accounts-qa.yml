@@ -1,0 +1,11 @@
+build:
+  version: "2.0"
+
+accounts:
+  message: "Bienvenido al Microservicio de Cuentas en el entorno de Testing"
+  contactDetails:
+    name: "John Smith - Lider del equipo de Testing"
+    email: "john.smith@banco.com"
+  onCallSupport:
+    - (34) 789 123 456
+    - (34) 456 789 123
