@@ -2,7 +2,7 @@ build:
   version: "2.0"
 
 accounts:
-  message: "Bienvenido al Microservicio de Cuentas en el entorno de Testing"
+  message: "Bienvenido al Microservicio de Cuentas en el entorno de Pre-producción"
   contactDetails:
     name: "John Smith - Lider del equipo de Testing"
     email: "john.smith@banco.com"
