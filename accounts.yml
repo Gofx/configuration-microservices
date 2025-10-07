@@ -5,7 +5,7 @@ accounts:
   message: "Bienvenido al Microservicio Cuentas para el entorno Local"
   contactDetails:
     name: "John Doe - Desarrollador"
-    email: "e8d474a823e0d25c74a61e1fa106b13a3f19163c9bfd93d96f0d3abd487da9733f41eb4fa707d581190e414a23dd9971"
+    email: "{cipher}e8d474a823e0d25c74a61e1fa106b13a3f19163c9bfd93d96f0d3abd487da9733f41eb4fa707d581190e414a23dd9971"
   onCallSupport:
     - (34) 123 456 789
     - (34) 789 456 123
