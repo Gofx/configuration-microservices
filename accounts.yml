@@ -2,7 +2,7 @@ build:
   version: "3.0"
 
 accounts:
-  message: "Bienvenido al Microservicio Cuentas para el entorno Local"
+  message: "Bienvenido al Microservicio Cuentas para el entorno Default"
   contactDetails:
     name: "John Doe - Desarrollador"
     email: "{cipher}e8d474a823e0d25c74a61e1fa106b13a3f19163c9bfd93d96f0d3abd487da9733f41eb4fa707d581190e414a23dd9971"
